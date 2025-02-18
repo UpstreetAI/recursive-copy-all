@@ -13,5 +13,8 @@
     "url": "https://github.com/UpstreetAI/recursive-copy-all/issues"
   },
   "homepage": "https://github.com/UpstreetAI/recursive-copy-all#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "recursive-copy": "^2.0.14"
+  }
 }
