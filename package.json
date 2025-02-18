@@ -1,0 +1,17 @@
+{
+  "name": "recursive-copy-all",
+  "version": "0.0.1",
+  "main": "recursive-copy-all.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UpstreetAI/recursive-copy-all.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UpstreetAI/recursive-copy-all/issues"
+  },
+  "homepage": "https://github.com/UpstreetAI/recursive-copy-all#readme",
+  "description": ""
+}
